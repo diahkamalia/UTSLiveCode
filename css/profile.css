@@ -1,0 +1,21 @@
+.header{
+  margin: auto;
+  position:  fixed;
+  overflow: hidden;
+  background-color: white;
+  top: 0;
+  width:100%;
+  padding-right: 170px;
+}
+.header a {
+  text-align: right;
+  margin: 20px;
+  display: block;
+}
+.header img{
+  margin-right: 602px;
+}
+.mb-5{
+  margin-top: 100px;
+
+}

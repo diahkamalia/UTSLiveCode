@@ -1,0 +1,30 @@
+.header{
+  margin: auto;
+  position: fixed;
+  overflow: hidden;
+  background-color: white;
+  top: 0;
+  width:100%;
+  padding-right: 170px;
+}
+.header a {
+  text-align: right;
+  margin: 20px;
+  display: block;
+}
+.header img{
+  margin-right: 602px;
+}
+.content{
+  position: relative;
+  margin-top: 80px;
+  margin-left:140px ;
+}
+.content label{
+  font-weight: 1000;
+}
+.content button{
+  margin-left: 15px;
+  width: 780px;
+  height: 50px;
+}
